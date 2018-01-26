@@ -1,0 +1,6 @@
+Goel S, Hofman J M, Lahaie S, et al. What can search predict[J]. 2010.
+Ettredge M, Gerdes J, Karuga G. Using web-based search data to predict macroeconomic statistics[J]. Communications of the Acm, 2005, 48(11):87--92.
+Barreira N, Godinho P, Melo P. Nowcasting unemployment rate and new car sales in south-western Europe with Google Trends[J]. Netnomics, 2014, 14(3):129-165.
+Asur S, Huberman B /. Predicting the future with social media[J]. Social Science Electronic Publishing, 2010, 7(2):492-499.
+Chevalier J A, Mayzlin D. The Effect of Word of Mouth on Sales: Online Book Reviews.[J]. Social Science Electronic Publishing, 2006, 43(3):345-354.
+Bughin J. Google searches and twitter mood: nowcasting telecom sales performance[J]. Netnomics Economic Research & Electronic Networking, 2015, 16(1-2):87-105.
